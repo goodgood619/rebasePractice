@@ -20,7 +20,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:goodgood" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:yoonseok" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -75,7 +75,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="goodgood" />
+                        <option value="yoonseok" />
                       </list>
                     </value>
                   </entry>
@@ -86,5 +86,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
