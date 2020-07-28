@@ -10,3 +10,5 @@ rebase공부는 참어려워 ㅇㅇ..
 ㅇㅇ 매우 헷갈림
 
 rebase하기전 미리 커밋하자
+
+testetstset

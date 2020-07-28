@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1dfda9a-cd9c-4de2-9cb3-50ab98e346a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/rebase망했을때.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rebase망했을때.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="goodgood" />
+                        <option value="yoonseok" />
                       </list>
                     </value>
                   </entry>
